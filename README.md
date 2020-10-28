@@ -1,5 +1,7 @@
 # lab3udea
 
+[![Build Status](https://travis-ci.org/MTC96/lab3udea.svg?branch=main)](https://travis-ci.org/MTC96/lab3udea)
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
